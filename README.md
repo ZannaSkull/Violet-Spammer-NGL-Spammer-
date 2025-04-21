@@ -1,5 +1,9 @@
 # Violet Spammer
 
+<p align="center">
+<img src="https://i.pinimg.com/736x/b3/c6/4c/b3c64c468d139e9244770418e8fd5505.jpg", width="500", height="500">
+</p>
+
 Violet Spammer is an advanced spam tool for NGL (Not Gonna Lie) that includes features for sending custom messages and deleting the inbox using exploits.
 
 ## Key Features
